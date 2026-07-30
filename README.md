@@ -1,5 +1,9 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=500&lines=Rahul+Raj;Android+%26+Kotlin+Developer" alt="Name" />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Android+%26+Kotlin+Developer;Building+privacy-first+software;Offline-first+%7C+AI+%7C+Clean+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=888&center=true&vCenter=true&width=400&lines=privacy-first+%7C+offline-first+%7C+AI" alt="Tagline" />
 </p>
 
 <p align="center">
@@ -12,13 +16,21 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
+<pre align="center">
+      _/_/_/    _/_/_/  _/      _/  _/_/_/_/    _/_/    _/      _/
+   _/        _/        _/      _/  _/        _/    _/  _/_/    _/
+  _/        _/        _/      _/  _/_/_/    _/_/_/_/  _/  _/  _/
+ _/        _/          _/  _/    _/        _/    _/  _/    _/_/
+  _/_/_/    _/_/_/      _/      _/_/_/_/  _/    _/  _/      _/
+</pre>
+
 ---
 
 <h3> About</h3>
 
 Senior Android developer focused on building fast, private, offline-first applications. Currently building **Doczis** — an AI-powered document management system that works entirely offline. Passionate about Kotlin, clean architecture, and user privacy.
 
-<h3> Currently Building</h3>
+<h3> Building</h3>
 
 - **Doczis** — Offline AI document management (Kotlin, local LLMs, on-device processing)
 
@@ -37,8 +49,8 @@ Senior Android developer focused on building fast, private, offline-first applic
 
 <p align="center">
   <a href="https://github.com/rahulrakshi3-netizen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rahulrakshi3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rahulrakshi3@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rahulraj-linked/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rahulrakshi3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
