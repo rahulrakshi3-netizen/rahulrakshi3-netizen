@@ -28,7 +28,7 @@
 
 <h3> About</h3>
 
-Senior Android developer focused on building fast, private, offline-first applications. Currently building **Doczis** — an AI-powered document management system that works entirely offline. Passionate about Kotlin, clean architecture, and user privacy.
+BCA Final Year student | Android & Kotlin Developer. Building **Doczis** — an offline AI document management app. Passionate about Kotlin, clean architecture, and privacy-first software.
 
 <h3> Building</h3>
 
@@ -37,7 +37,7 @@ Senior Android developer focused on building fast, private, offline-first applic
 <h3> GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulrakshi3-netizen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulrakshi3-netizen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrakshi3-netizen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
 </p>
 
