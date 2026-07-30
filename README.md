@@ -17,11 +17,11 @@
 </p>
 
 <pre align="center">
-RRRRR  AAAAA  H   H  U   U  L
-R   R  A   A  H   H  U   U  L
-RRRRR  AAAAA  HHHHH  U   U  L
-R  R   A   A  H   H  U   U  L
-R   R  A   A  H   H  UUUU   LLL
+  ___   _   _  _   _  _   _  _
+ / _ \ | | | || | | || | | || |
+| |_| || |_| || |_| || | | || |
+|  _  ||  _  ||  _  || | | || |
+|_| |_||_| |_||_| |_|\___/ |___|
 </pre>
 
 ---
