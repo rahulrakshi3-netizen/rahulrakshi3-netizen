@@ -34,15 +34,12 @@ BCA Final Year student | Android & Kotlin Developer. Building **Doczis** — an 
 
 - **Doczis** — Offline AI document management (Kotlin, local LLMs, on-device processing)
 
-<h3> GitHub Stats</h3>
+<h3> GitHub</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulrakshi3-netizen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrakshi3-netizen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulrakshi3-netizen&theme=onestar&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Repos-17-7C3AED?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Android%20%26%20Kotlin-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-Doczis-7C3AED?style=for-the-badge" />
 </p>
 
 <h3> Connect</h3>
