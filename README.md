@@ -61,15 +61,34 @@ ___________~>I''''..'';  "]  .              :;;I:^Ili,l;!`l;_:!,]```'`.''`,j^+|-
 
 
 
-About me
+```
 
-- BCA Final Year
-- Android & Kotlin Developer
-- Building Doczis (offline AI document management)
-- Interested in AI, privacy-first software, and full-stack development
 
-Tech Stack
 
-"Kotlin" • "Android" • "Next.js" • "TypeScript" • "Firebase" • "Supabase"
+**`Android & Kotlin Developer | Building privacy-first, offline-first software`**
 
-«Building software that works offline, respects privacy, and feels fast.»
+---
+
+### About
+
+Senior Android developer focused on building fast, private, offline-first applications. Currently building **Doczis** — an AI-powered document management system that works entirely offline. Passionate about Kotlin, clean architecture, and user privacy.
+
+### Currently
+
+- **Doczis** — offline AI document management (Kotlin, local LLMs, on-device processing)
+- Exploring full-stack with Next.js, TypeScript, and Supabase
+
+### Tech Stack
+
+```
+Kotlin  •  Android  •  Jetpack Compose  •  Next.js  •  TypeScript  •  Firebase  •  Supabase
+```
+
+### Contact
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/rahulrakshi3-netizen)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rahulrakshi3)
+
+---
+
+*"Building software that works offline, respects privacy, and feels fast."*
