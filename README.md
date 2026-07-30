@@ -17,9 +17,11 @@
 </p>
 
 <pre align="center">
-   (\(\ 
-   (-.-)  👋  Hello! I'm Rahul Raj
-   o_(")(")
+RRRRR  AAAAA  H   H  U   U  L
+R   R  A   A  H   H  U   U  L
+RRRRR  AAAAA  HHHHH  U   U  L
+R  R   A   A  H   H  U   U  L
+R   R  A   A  H   H  UUUU   LLL
 </pre>
 
 ---
